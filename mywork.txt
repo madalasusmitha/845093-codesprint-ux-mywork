@@ -1,0 +1,10 @@
+My associate id: 845093
+Other team members:
+845163,844993,844866
+Team lead:
+845163
+My Role in team:
+1. Contact Us Page and its validations
+
+My development files
+contact us component 
